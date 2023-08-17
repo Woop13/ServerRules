@@ -85,3 +85,7 @@ End Of Round Griefing，是指玩家在回合结束后的结算时间内攻击�
 ## 7. AdminHelp
 
 玩家在游戏进程中遇到的任何疑问, 应当通过 AdminWho 查询在线管理, 并通过 AdminHelp 提交 Ticket。其他任何方式的提问管理员有权不予回答
+
+## 8. Self Antag
+
+Self antag 是指作为太空站的船员, 未被分配为 antag 时以 antag 的方式与行为影响游戏进程。违反此规则将直接处以**服务器封禁**惩罚
